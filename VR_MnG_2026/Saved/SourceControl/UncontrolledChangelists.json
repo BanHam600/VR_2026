@@ -1,0 +1,24 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/Users/mbrown2/Documents/Unreal Projects/VR_MnG_2026/Content/VRTemplate/Maps/VRTemplateMap.umap",
+				"D:/Users/mbrown2/Documents/Unreal Projects/VR_MnG_2026/Content/VRTemplate/Maps/_GENERATED/mbrown2/CubeGridToolOutput_4A86A68A.uasset",
+				"D:/Users/mbrown2/Documents/Unreal Projects/VR_MnG_2026/Content/VRTemplate/Maps/_GENERATED/mbrown2/CubeGridToolOutput_733E4A13.uasset",
+				"D:/Users/mbrown2/Documents/Unreal Projects/VR_MnG_2026/Content/VRTemplate/Maps/_GENERATED/mbrown2/CubeGridToolOutput_88E375DF.uasset",
+				"D:/Users/mbrown2/Documents/Unreal Projects/VR_MnG_2026/Content/VRTemplate/Maps/_GENERATED/mbrown2/CubeGridToolOutput_91449C10.uasset",
+				"D:/Users/mbrown2/Documents/Unreal Projects/VR_MnG_2026/Content/VRTemplate/Maps/_GENERATED/mbrown2/Cylinder_44E24ABB.uasset",
+				"D:/Users/mbrown2/Documents/Unreal Projects/VR_MnG_2026/Content/VRTemplate/Maps/_GENERATED/mbrown2/Cylinder_4A6EB0A2.uasset",
+				"D:/Users/mbrown2/Documents/Unreal Projects/VR_MnG_2026/Content/VRTemplate/Maps/_GENERATED/mbrown2/Cylinder_4EB57EE5.uasset",
+				"D:/Users/mbrown2/Documents/Unreal Projects/VR_MnG_2026/Content/VRTemplate/Maps/_GENERATED/mbrown2/Cylinder_85E5232E.uasset",
+				"D:/Users/mbrown2/Documents/Unreal Projects/VR_MnG_2026/Content/VRTemplate/Maps/_GENERATED/mbrown2/Disc_21CE1B9D.uasset",
+				"D:/Users/mbrown2/Documents/Unreal Projects/VR_MnG_2026/Content/VRTemplate/Maps/_GENERATED/mbrown2/Stairs_7A0AEA1C.uasset",
+				"D:/Users/mbrown2/Documents/Unreal Projects/VR_MnG_2026/Content/VRTemplate/Maps/_GENERATED/mbrown2/Stairs_B1F9A917.uasset",
+				"D:/Users/mbrown2/Documents/Unreal Projects/VR_MnG_2026/Content/VRTemplate/Maps/_GENERATED/mbrown2/Torus_CF9D698D.uasset"
+			]
+		}
+	]
+}
