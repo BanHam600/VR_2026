@@ -74,3 +74,22 @@ Plugins/**/Intermediate/*
 # Cache files for the editor to use
 DerivedDataCache/*
 *.txt
+*.uasset
+*.pth
+*.list
+*.ush
+*.in
+*.json
+*.bin
+*.log
+*.pma
+*.ini
+*.otf
+*.svg
+*.css
+*.umap
+*.db-journal
+*.db
+*.pb
+*.html
+*.js
